@@ -1,0 +1,11 @@
+*.pyc
+log
+*.log
+tmp
+.git
+.idea
+.Python
+lib
+bin
+
+
